@@ -1,0 +1,23 @@
+/* some custom css for the mermaid diagrams */
+.mermaid svg rect {
+    fill: #80808066 !important;
+  stroke: #00000066 !important;
+  }
+  div.inline-title{
+    color: #6263a0;
+  }
+  .markdown-rendered h1, h1, .cm-header.cm-header-1  {
+    color: #e698b6;
+  }
+  .markdown-rendered h2, h2, .cm-header.cm-header-2  {
+    color: #8edfdb;
+  }
+  .markdown-rendered h3, h3, .cm-header.cm-header-3  {
+    color: #a3d68f;
+  }
+  .markdown-rendered h4, h4, .cm-header.cm-header-4 {
+    color: #e0d391;
+  }
+  .dataview.small-text {
+    display: none;
+  }

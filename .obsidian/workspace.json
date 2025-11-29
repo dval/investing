@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "d8bb34e8a48ca0d3",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "_cllippings/Paper Trading and Thinkorswim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Paper Trading and Thinkorswim"
             }
           },
           {
@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9766dbbb29bd6123",
+  "active": "c3008e57e3744dd7",
   "lastOpenFiles": [
+    "Lexicon.md",
     "_cllippings/Paper Trading and Thinkorswim.md",
     "Welcome.md",
     "_cllippings",
